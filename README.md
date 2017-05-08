@@ -31,23 +31,25 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 
 ---
 ### Start Here
-* Take a look at the big picture: [**Web Developer Roadpath**](https://github.com/kamranahmedse/developer-roadmap)
-* YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
+* Take a look at the big picture: 
+  * [Web Developer Roadpath - Github Repo](https://github.com/kamranahmedse/developer-roadmap)
+  * YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
 * Learn about the common tools associated with full stack web development - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
 * [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
-* What happens when you type google into your address bar? [[Reddit Link]](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
+* What happens when you type google into your address bar? 
+  * [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
   * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-* Find a local Web Development related [Meetup!](https://www.meetup.com/)
+* Find a local Web Development related [Meetup!](https://www.meetup.com/) Don't worry, it's not as scary as you might think, and is one of the best ways to start learning
 ---
 ### How to Learn
 * How to Learn.
   * Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
-  * Repetition, Repetition, Repetition - A great discussion on study techniques [Reddit Post](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
+  * Repetition, Repetition, Repetition - [Reddit Discussion on study techniques](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
 
 ---
 ### What is the Single most useful CS Bookmark you have?
 
-* What is the single most useful CS Bookmark you have? [[Reddit Link]](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
+* What is the single most useful CS Bookmark you have? [Reddit Link to discussion](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
   * [Learn X in Y Minutes](https://learnxinyminutes.com/)
   * [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
   * [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
@@ -67,18 +69,12 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
-
----
-### Assorted Links (Still need to sort)
-* [Javascript: Learn Regular Expressions for Beginners](https://medium.com/@bmorelli25/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
-* Tutorial/Screencast: [Let's Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
-* [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
-* [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
-* Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
-* JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
-* [Watch And Code](https://watchandcode.com/)
-* [RegexOne](http://regexone.com/) - Learn Regular Expressions
-* [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
+* Bootcamps
+  * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
+  * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
+  * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
+* Paid
+  * [The Web Developer Bootcamp by Colt Steele](https://goo.gl/qTzEtx). This is the only paid resource on this document. I include it because it is worth its weight in gold. Inexpensive (less than $50) and one of the best resources out there. If you're going to buy one course, buy this one.
 
 ---
 ### Learn HTML
@@ -110,6 +106,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
     * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
   * Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
     * [[Edabit - Website Link]](https://edabit.com/explore) [[Reddit Post]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
+  * [JavaScript - The keyword 'this' for beginners](https://hackernoon.com/javascript-the-keyword-this-for-beginners-fb5238d99f85)
   * [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
   * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
   * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
@@ -118,6 +115,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
   * **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
 * Articles/Books
+  * [Javascript: Learn Regular Expressions for Beginners](https://medium.com/@bmorelli25/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
   * [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
   * [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
   * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
@@ -339,3 +337,12 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Salary Negotiations and how not to set a bunch of money on fire (Medium)](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.75xz4zut8)
   * [10 Rules for negotiating a job offer (Medium)](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.g8u1wnyw8)
   * [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)
+  
+---
+### Assorted Links
+
+* Tutorial/Screencast: [Lets Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
+* JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
+* [Watch And Code](https://watchandcode.com/)
+* [RegexOne](http://regexone.com/) - Learn Regular Expressions
+* [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
